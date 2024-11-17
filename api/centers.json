@@ -3,6 +3,8 @@
     "id": 0,
     "name": "Hernička v Národní",
     "address": "Národní 28, 110 00 Praha 1",
+    "phone": "606 456 700",
+    "email": "dasenka@narodni.cz",
     "capacity": 20,
     "open": {
       "mon": "8:00 - 18:00",
@@ -19,6 +21,8 @@
     "id": 1,
     "name": "Vodičkův koutek",
     "address": "Vodičkova 39, 110 00 Praha 1",
+    "phone": "606 113 664",
+    "email": "dasenka@vodickova.cz",
     "capacity": 15,
     "open": {
       "mon": "9:00 - 17:00",
@@ -35,6 +39,8 @@
     "id": 2,
     "name": "Koutek Václavák",
     "address": "Václavské nám. 816/49, 110 00 Praha 1",
+    "phone": "606 120 590",
+    "email": "dasenka@vaclavak.cz",
     "capacity": 30,
     "open": {
       "mon": "7:30 - 18:00",
